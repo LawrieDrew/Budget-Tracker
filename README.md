@@ -16,15 +16,24 @@ Handy budget tracker utilizing Mondo DB
 
 # Installation
 
-The following dependencies must be installed to run application:
+Clone repo to local folder, open and run command `npm install`
+
+Once dependencies have been installed, start app by running command
+
+`npm start`
+
+Once this has happened, local server host should be listening and running app.
 
 # Usage
 
-
+This application will allow a user to add and subtract daily expenses for tracking.
 
 # Demo
 
 
+[Deployed Heroku App](https://git.heroku.com/stark-temple-45268.git)
+
+[Github URL](https://github.com/LawrieDrew/Budget-Tracker.git)
 
 # License 
 

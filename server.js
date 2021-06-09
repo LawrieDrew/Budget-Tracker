@@ -21,6 +21,7 @@ mongoose.connect("mongodb://localhost/budget", {
 });
 
 // routes
+//what is differeance between seapp.use and app.use?
 app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {

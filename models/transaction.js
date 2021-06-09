@@ -19,6 +19,9 @@ const transactionSchema = new Schema(
     }
   }
 );
+ // why would we use that date type as opposed to:
+ // day: {type: Date, default: ()=> new Date()}
+
 
 const Transaction = mongoose.model("Transaction", transactionSchema);
 

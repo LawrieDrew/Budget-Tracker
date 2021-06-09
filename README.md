@@ -1,7 +1,7 @@
 # Budget-Tracker
 
 # Description 
-Handy budget tracker utilizing Mondo DB
+Handy budget tracker utilizing Mongo DB
 
 
 # Table of Contents
@@ -16,7 +16,9 @@ Handy budget tracker utilizing Mondo DB
 
 # Installation
 
-Clone repo to local folder, open and run command `npm install`
+Clone repo to local folder, open and run command 
+
+`npm install`
 
 Once dependencies have been installed, start app by running command
 

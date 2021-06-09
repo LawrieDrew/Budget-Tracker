@@ -31,7 +31,7 @@ This application will allow a user to add and subtract daily expenses for tracki
 # Demo
 
 
-[Deployed Heroku App](https://git.heroku.com/stark-temple-45268.git)
+[Deployed Heroku App](https://stark-temple-45268.herokuapp.com/)
 
 [Github URL](https://github.com/LawrieDrew/Budget-Tracker.git)
 
